@@ -1,0 +1,1 @@
+g++   -g  -rdynamic CMakeFiles/Verified-Nonlinear-Equation.dir/src/NonlinearSolver.cpp.o CMakeFiles/Verified-Nonlinear-Equation.dir/src/main.cpp.o  -o ../bin/Verified-Nonlinear-Equation 

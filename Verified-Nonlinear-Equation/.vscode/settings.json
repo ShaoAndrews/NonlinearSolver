@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "new": "cpp"
+    },
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontFamily": "Ubuntu mono"
+}
